@@ -2,10 +2,11 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
+    cout<<"测试";
     return 0;
 }
 
