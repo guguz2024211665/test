@@ -1,0 +1,1337 @@
+[
+  {
+    "modid": "supermartijn642configlib",
+    "name": "SuperMartijn642\u0027s Config Library",
+    "version": "1.1.8"
+  },
+  {
+    "modid": "sodiumextras",
+    "name": "Sodium Extras",
+    "version": "1.0.5"
+  },
+  {
+    "modid": "underground_villages",
+    "name": "Underground Villages Mod",
+    "version": "2.1.0"
+  },
+  {
+    "modid": "queencats",
+    "name": "Queen Cats \u0026 Dogs",
+    "version": "1.0.6-1.20.1-Forge"
+  },
+  {
+    "modid": "fabric_rendering_fluids_v1",
+    "name": "Fabric Rendering Fluids (v1)",
+    "version": "3.0.28+4ac5e37a77"
+  },
+  {
+    "modid": "slashblade",
+    "name": "Slash Blade:Resharped",
+    "version": "1.1.5"
+  },
+  {
+    "modid": "fabric_models_v0",
+    "name": "Fabric Models (v0)",
+    "version": "0.4.2+7c3892a477"
+  },
+  {
+    "modid": "projecte",
+    "name": "ProjectE",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "prefabricated_structures",
+    "name": "Blueprints Mod",
+    "version": "1.0.2"
+  },
+  {
+    "modid": "silentsdelight",
+    "name": "Silent\u0027s Delight",
+    "version": "1.20.1-1.0.0"
+  },
+  {
+    "modid": "neat",
+    "name": "Neat",
+    "version": "1.20.1-41-FORGE"
+  },
+  {
+    "modid": "fabric_convention_tags_v1",
+    "name": "Fabric Convention Tags",
+    "version": "1.5.5+fa3d1c0177"
+  },
+  {
+    "modid": "modernfix",
+    "name": "ModernFix",
+    "version": "5.20.0+mc1.20.1"
+  },
+  {
+    "modid": "fabric_command_api_v1",
+    "name": "Fabric Command API (v1)",
+    "version": "1.2.34+f71b366f77"
+  },
+  {
+    "modid": "fabric_block_view_api_v2",
+    "name": "Fabric BlockView API (v2)",
+    "version": "1.0.1+0767707077"
+  },
+  {
+    "modid": "fabric_command_api_v2",
+    "name": "Fabric Command API (v2)",
+    "version": "2.2.13+561530ec77"
+  },
+  {
+    "modid": "villagersplus",
+    "name": "VillagersPlus",
+    "version": "3.1"
+  },
+  {
+    "modid": "everythingcopper",
+    "name": "Everything is Copper",
+    "version": "1.20.1-2.3.4"
+  },
+  {
+    "modid": "yungsapi",
+    "name": "YUNG\u0027s API",
+    "version": "1.20-Forge-4.0.6"
+  },
+  {
+    "modid": "maxhealthfix",
+    "name": "MaxHealthFix",
+    "version": "12.0.3"
+  },
+  {
+    "modid": "softerhaybales",
+    "name": "Softer Hay Bales",
+    "version": "3.3"
+  },
+  {
+    "modid": "guardvillagers",
+    "name": "Guard Villagers",
+    "version": "1.20.1-1.6.6"
+  },
+  {
+    "modid": "suonotfounds_api",
+    "name": "Suonotfound\u0027s API",
+    "version": "70..8"
+  },
+  {
+    "modid": "snowrealmagic",
+    "name": "Snow! Real Magic!",
+    "version": "10.5.2"
+  },
+  {
+    "modid": "fabric_screen_api_v1",
+    "name": "Fabric Screen API (v1)",
+    "version": "2.0.8+45a670a577"
+  },
+  {
+    "modid": "oceanic_delight",
+    "name": "Oceanic Delight",
+    "version": "1.0.3"
+  },
+  {
+    "modid": "spelunkery",
+    "name": "Spelunkery",
+    "version": "1.20.1-0.3.13"
+  },
+  {
+    "modid": "geysers",
+    "name": "Geysers",
+    "version": "1.0609"
+  },
+  {
+    "modid": "betterfortresses",
+    "name": "YUNG\u0027s Better Nether Fortresses",
+    "version": "1.20-Forge-2.0.6"
+  },
+  {
+    "modid": "cloth_config",
+    "name": "Cloth Config v10 API",
+    "version": "11.1.136"
+  },
+  {
+    "modid": "sawmill",
+    "name": "Universal Sawmill",
+    "version": "1.20-1.4.3"
+  },
+  {
+    "modid": "geophilic",
+    "name": "Geophilic",
+    "version": "2.2.0-mc1.20u1.20.2"
+  },
+  {
+    "modid": "embeddium",
+    "name": "Embeddium",
+    "version": "0.3.31+mc1.20.1"
+  },
+  {
+    "modid": "rubidium",
+    "name": "Rubidium (Embeddium)",
+    "version": "0.7.1"
+  },
+  {
+    "modid": "structure_gel",
+    "name": "Structure Gel API",
+    "version": "2.16.2"
+  },
+  {
+    "modid": "handcrafted",
+    "name": "Handcrafted",
+    "version": "3.0.6"
+  },
+  {
+    "modid": "repurposed_structures",
+    "name": "Repurposed Structures",
+    "version": "7.1.15+1.20.1-forge"
+  },
+  {
+    "modid": "fabric_game_rule_api_v1",
+    "name": "Fabric Game Rule API (v1)",
+    "version": "1.0.40+683d4da877"
+  },
+  {
+    "modid": "celestial_core",
+    "name": "Celestial Core",
+    "version": "1.4.2"
+  },
+  {
+    "modid": "celestial_enchantments",
+    "name": "Celestial Enchantments",
+    "version": "1.3.3"
+  },
+  {
+    "modid": "unusualend",
+    "name": "Unusual End",
+    "version": "2.2.3"
+  },
+  {
+    "modid": "elainalike",
+    "name": "ElainaLike Reborn:Reborn",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "supermartijn642corelib",
+    "name": "SuperMartijn642\u0027s Core Lib",
+    "version": "1.1.18"
+  },
+  {
+    "modid": "yungsbridges",
+    "name": "YUNG\u0027s Bridges",
+    "version": "1.20-Forge-4.0.3"
+  },
+  {
+    "modid": "resourcefulconfig",
+    "name": "Resourcefulconfig",
+    "version": "2.1.2"
+  },
+  {
+    "modid": "mr_tidal_towns",
+    "name": "Tidal Towns",
+    "version": "1.3.4"
+  },
+  {
+    "modid": "spark",
+    "name": "spark",
+    "version": "1.10.53"
+  },
+  {
+    "modid": "philipsruins",
+    "name": "Philips Ruins",
+    "version": "4.6"
+  },
+  {
+    "modid": "mostructures",
+    "name": "Mo\u0027 Structures",
+    "version": "1.4.51.20.1"
+  },
+  {
+    "modid": "curios",
+    "name": "Curios API",
+    "version": "5.11.0+1.20.1"
+  },
+  {
+    "modid": "oculus",
+    "name": "Oculus",
+    "version": "1.7.0"
+  },
+  {
+    "modid": "yungsextras",
+    "name": "YUNG\u0027s Extras",
+    "version": "1.20-Forge-4.0.3"
+  },
+  {
+    "modid": "mr_dungeons_andtaverns",
+    "name": "Dungeons and Taverns",
+    "version": "3.0.3.f"
+  },
+  {
+    "modid": "bettervillage",
+    "name": "Better village",
+    "version": "3.2.0"
+  },
+  {
+    "modid": "icarus",
+    "name": "Icarus",
+    "version": "2.10.0"
+  },
+  {
+    "modid": "fabric_entity_events_v1",
+    "name": "Fabric Entity Events (v1)",
+    "version": "1.6.0+6274ab9d77"
+  },
+  {
+    "modid": "cumulus_menus",
+    "name": "Cumulus",
+    "version": "1.20.1-1.0.0-neoforge"
+  },
+  {
+    "modid": "jlme",
+    "name": "Just a lot more enchantments",
+    "version": "1.4.12"
+  },
+  {
+    "modid": "chimes",
+    "name": "Chimes",
+    "version": "2.0.1"
+  },
+  {
+    "modid": "betterendisland",
+    "name": "YUNG\u0027s Better End Island",
+    "version": "1.20-Forge-2.0.6"
+  },
+  {
+    "modid": "dynamic_fps",
+    "name": "Dynamic FPS",
+    "version": "3.7.7"
+  },
+  {
+    "modid": "fabric_rendering_data_attachment_v1",
+    "name": "Fabric Rendering Data Attachment (v1)",
+    "version": "0.3.37+a6081afc77"
+  },
+  {
+    "modid": "nitrogen_internals",
+    "name": "Nitrogen",
+    "version": "1.20.1-1.0.7-neoforge"
+  },
+  {
+    "modid": "l2library",
+    "name": "L2 Library",
+    "version": "2.4.23"
+  },
+  {
+    "modid": "illageandspillage",
+    "name": "Illage and Spillage: Respillaged",
+    "version": "1.2.2"
+  },
+  {
+    "modid": "bettermineshafts",
+    "name": "YUNG\u0027s Better Mineshafts",
+    "version": "1.20-Forge-4.0.4"
+  },
+  {
+    "modid": "prefabricated",
+    "name": "Prefabricated",
+    "version": "5.2.0"
+  },
+  {
+    "modid": "fabric_client_tags_api_v1",
+    "name": "Fabric Client Tags",
+    "version": "1.1.2+5d6761b877"
+  },
+  {
+    "modid": "fabric_dimensions_v1",
+    "name": "Fabric Dimensions API (v1)",
+    "version": "2.1.54+8005d10d77"
+  },
+  {
+    "modid": "blahaj",
+    "name": "Blåhaj",
+    "version": "1"
+  },
+  {
+    "modid": "kiwi",
+    "name": "Kiwi Library",
+    "version": "11.8.28+forge"
+  },
+  {
+    "modid": "confluence",
+    "name": "Terra Curio",
+    "version": "0.1.11"
+  },
+  {
+    "modid": "puffish_skills",
+    "name": "Pufferfish\u0027s Skills",
+    "version": "0.14.3"
+  },
+  {
+    "modid": "l2tabs",
+    "name": "L2 Tabs",
+    "version": "0.3.1"
+  },
+  {
+    "modid": "mutantmonsters",
+    "name": "Mutant Monsters",
+    "version": "8.0.7"
+  },
+  {
+    "modid": "endertrigon",
+    "name": "Ender Trigon",
+    "version": "1.20.1-1.1"
+  },
+  {
+    "modid": "fabric_model_loading_api_v1",
+    "name": "Fabric Model Loading API (v1)",
+    "version": "1.0.3+6274ab9d77"
+  },
+  {
+    "modid": "lithostitched",
+    "name": "Lithostitched",
+    "version": "1.3.8"
+  },
+  {
+    "modid": "graveyard",
+    "name": "The Graveyard",
+    "version": "3.1"
+  },
+  {
+    "modid": "attributefix",
+    "name": "AttributeFix",
+    "version": "21.0.4"
+  },
+  {
+    "modid": "fabric_screen_handler_api_v1",
+    "name": "Fabric Screen Handler API (v1)",
+    "version": "1.3.30+561530ec77"
+  },
+  {
+    "modid": "flerovium",
+    "name": "Flerovium",
+    "version": "1.1.8"
+  },
+  {
+    "modid": "yes_steve_model",
+    "name": "Yes Steve Model",
+    "version": "2.2.2"
+  },
+  {
+    "modid": "libraryferret",
+    "name": "Library ferret",
+    "version": "4.0.0"
+  },
+  {
+    "modid": "ghostjump",
+    "name": "ReGhostJump",
+    "version": "1.0"
+  },
+  {
+    "modid": "caelus",
+    "name": "Caelus API",
+    "version": "3.2.0+1.20.1"
+  },
+  {
+    "modid": "fabric_rendering_v1",
+    "name": "Fabric Rendering (v1)",
+    "version": "3.0.8+66e9a48f77"
+  },
+  {
+    "modid": "fabric_renderer_indigo",
+    "name": "Fabric Renderer - Indigo",
+    "version": "1.5.2+b5b2da4177"
+  },
+  {
+    "modid": "l2screentracker",
+    "name": "L2 Screen Tracker",
+    "version": "0.1.4"
+  },
+  {
+    "modid": "stoneholm",
+    "name": "Stoneholm",
+    "version": "2.0.0"
+  },
+  {
+    "modid": "glitchcore",
+    "name": "GlitchCore",
+    "version": "0.0.1.1"
+  },
+  {
+    "modid": "toomanypaintings",
+    "name": "Too Many Paintings!",
+    "version": "1.0.2-1.20-1.20.4-forge"
+  },
+  {
+    "modid": "rare_ice",
+    "name": "Rare Ice",
+    "version": "0.0NONE"
+  },
+  {
+    "modid": "beefix",
+    "name": "Bee Fix",
+    "version": "1.0.7"
+  },
+  {
+    "modid": "bio_delight",
+    "name": "Biomantic Delight",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "memoryleakfix",
+    "name": "Memory Leak Fix",
+    "version": "1.1.5"
+  },
+  {
+    "modid": "aetherdelight",
+    "name": "Aether Delight",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "fabric_particles_v1",
+    "name": "Fabric Particles (v1)",
+    "version": "1.1.2+78e1ecb877"
+  },
+  {
+    "modid": "puzzlesaccessapi",
+    "name": "Puzzles Access Api",
+    "version": "8.0.7"
+  },
+  {
+    "modid": "ironchest",
+    "name": "Iron Chests",
+    "version": "1.20.1-14.4.4"
+  },
+  {
+    "modid": "voicechat",
+    "name": "Simple Voice Chat",
+    "version": "1.20.1-2.5.27"
+  },
+  {
+    "modid": "terrablender",
+    "name": "TerraBlender",
+    "version": "3.0.1.7"
+  },
+  {
+    "modid": "biomesoplenty",
+    "name": "Biomes O\u0027 Plenty",
+    "version": "19.0.0.94"
+  },
+  {
+    "modid": "fabric_api_base",
+    "name": "Fabric API Base",
+    "version": "0.4.31+ef105b4977"
+  },
+  {
+    "modid": "itemproductionlib",
+    "name": "Item Production Lib",
+    "version": "1.0.2a"
+  },
+  {
+    "modid": "grindenc",
+    "name": "Grindstone Enchantments",
+    "version": "2.2"
+  },
+  {
+    "modid": "fabric_block_api_v1",
+    "name": "Fabric Block API (v1)",
+    "version": "1.0.11+0e6cb7f777"
+  },
+  {
+    "modid": "fabric_resource_conditions_api_v1",
+    "name": "Fabric Resource Conditions API (v1)",
+    "version": "2.3.8+9ad825cd77"
+  },
+  {
+    "modid": "betterfpsdist",
+    "name": "betterfpsdist mod",
+    "version": "1.20.1-6.0"
+  },
+  {
+    "modid": "kotlinforforge",
+    "name": "Kotlin For Forge",
+    "version": "4.11.0"
+  },
+  {
+    "modid": "paintings",
+    "name": "Paintings ++",
+    "version": "11.0.0.2"
+  },
+  {
+    "modid": "forge",
+    "name": "Forge",
+    "version": "47.3.0"
+  },
+  {
+    "modid": "silentgear",
+    "name": "Silent Gear",
+    "version": "3.6.6"
+  },
+  {
+    "modid": "minecraft",
+    "name": "Minecraft",
+    "version": "1.20.1"
+  },
+  {
+    "modid": "ender_wyrmlings",
+    "name": "Ender Wyrmlings",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "farmersrespite",
+    "name": "Farmer\u0027s Respite",
+    "version": "1.20.1-2.1"
+  },
+  {
+    "modid": "flywheel",
+    "name": "Flywheel",
+    "version": "0.6.11-13"
+  },
+  {
+    "modid": "xaerominimap",
+    "name": "Xaero\u0027s Minimap",
+    "version": "24.6.1"
+  },
+  {
+    "modid": "decoration_delight",
+    "name": "Decoration Delight",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "fabric_item_group_api_v1",
+    "name": "Fabric Item Group API (v1)",
+    "version": "4.0.12+c9161c2d77"
+  },
+  {
+    "modid": "sit",
+    "name": "Sit",
+    "version": "1.3.5"
+  },
+  {
+    "modid": "fabric_registry_sync_v0",
+    "name": "Fabric Registry Sync (v0)",
+    "version": "2.3.3+1c0ea72177"
+  },
+  {
+    "modid": "immediatelyfast",
+    "name": "ImmediatelyFast",
+    "version": "1.3.3+1.20.4"
+  },
+  {
+    "modid": "oceansdelight",
+    "name": "Ocean\u0027s Delight",
+    "version": "1.0.2-1.20"
+  },
+  {
+    "modid": "appleskin",
+    "name": "AppleSkin",
+    "version": "2.5.1+mc1.20.1"
+  },
+  {
+    "modid": "fabric_recipe_api_v1",
+    "name": "Fabric Recipe API (v1)",
+    "version": "1.0.21+514a076577"
+  },
+  {
+    "modid": "fabric_object_builder_api_v1",
+    "name": "Fabric Object Builder API (v1)",
+    "version": "11.1.3+2174fc8477"
+  },
+  {
+    "modid": "biomemusic",
+    "name": "biomemusic mod",
+    "version": "1.20.1-2.5"
+  },
+  {
+    "modid": "puzzleslib",
+    "name": "Puzzles Lib",
+    "version": "8.1.25"
+  },
+  {
+    "modid": "fabric_sound_api_v1",
+    "name": "Fabric Sound API (v1)",
+    "version": "1.0.13+4f23bd8477"
+  },
+  {
+    "modid": "fabric_message_api_v1",
+    "name": "Fabric Message API (v1)",
+    "version": "5.1.9+52cc178c77"
+  },
+  {
+    "modid": "fruitsdelight",
+    "name": "Fruits Delight",
+    "version": "1.0.15"
+  },
+  {
+    "modid": "cristellib",
+    "name": "Cristel Lib",
+    "version": "1.1.6"
+  },
+  {
+    "modid": "bottledair",
+    "name": "Bottled Air",
+    "version": "2.4"
+  },
+  {
+    "modid": "fabric_renderer_api_v1",
+    "name": "Fabric Renderer API (v1)",
+    "version": "3.2.1+1d29b44577"
+  },
+  {
+    "modid": "betterwitchhuts",
+    "name": "YUNG\u0027s Better Witch Huts",
+    "version": "1.20-Forge-3.0.3"
+  },
+  {
+    "modid": "acedium",
+    "name": "Acedium",
+    "version": "0.2.7-beta"
+  },
+  {
+    "modid": "nvidium",
+    "name": "Nvidium (Acedium)",
+    "version": "0.2.7-beta"
+  },
+  {
+    "modid": "omega_config",
+    "name": "OmegaConfig",
+    "version": "1.4.11.20.1"
+  },
+  {
+    "modid": "fabric_item_api_v1",
+    "name": "Fabric Item API (v1)",
+    "version": "2.1.28+4d0bbcfa77"
+  },
+  {
+    "modid": "aether",
+    "name": "The Aether",
+    "version": "1.20.1-1.4.2-neoforge"
+  },
+  {
+    "modid": "lost_aether_content",
+    "name": "Aether: Lost Content",
+    "version": "1.2.3"
+  },
+  {
+    "modid": "deep_aether",
+    "name": "Deep Aether",
+    "version": "1.20.1-1.0.4"
+  },
+  {
+    "modid": "aeroblender",
+    "name": "AeroBlender",
+    "version": "1.20.1-1.0.1-neoforge"
+  },
+  {
+    "modid": "aether_redux",
+    "name": "The Aether: Redux",
+    "version": "0.0NONE"
+  },
+  {
+    "modid": "naturalist",
+    "name": "Naturalist",
+    "version": "4.0.3"
+  },
+  {
+    "modid": "betteroceanmonuments",
+    "name": "YUNG\u0027s Better Ocean Monuments",
+    "version": "1.20-Forge-3.0.4"
+  },
+  {
+    "modid": "immersive_aircraft",
+    "name": "Immersive Aircraft",
+    "version": "1.1.5+1.20.1"
+  },
+  {
+    "modid": "structureessentials",
+    "name": "Structure Essentials mod",
+    "version": "1.20.1-3.4"
+  },
+  {
+    "modid": "nanhealthfixer",
+    "name": "NaNHealthFixer",
+    "version": "1.20.1-0.0.1"
+  },
+  {
+    "modid": "xaeroworldmap",
+    "name": "Xaero\u0027s World Map",
+    "version": "1.39.0"
+  },
+  {
+    "modid": "citadel",
+    "name": "Citadel",
+    "version": "2.6.1"
+  },
+  {
+    "modid": "iceandfire",
+    "name": "Ice and Fire",
+    "version": "2.1.13-1.20.1"
+  },
+  {
+    "modid": "domesticationinnovation",
+    "name": "Domestication Innovation",
+    "version": "1.7.1"
+  },
+  {
+    "modid": "fabric_data_attachment_api_v1",
+    "name": "Fabric Data Attachment API (v1)",
+    "version": "1.0.0+30ef839e77"
+  },
+  {
+    "modid": "hc_enchanted_food",
+    "name": "[附魔食物]HC Enchanted food",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "finsandtails",
+    "name": "Fins and Tails",
+    "version": "1.20.1-1.1.5"
+  },
+  {
+    "modid": "mixinextras",
+    "name": "MixinExtras",
+    "version": "0.2.0-beta.9"
+  },
+  {
+    "modid": "aether_villages",
+    "name": "Aether Villages",
+    "version": "1.0.7"
+  },
+  {
+    "modid": "spawnermod",
+    "name": "Enhanced Mob Spawners",
+    "version": "1.9.3"
+  },
+  {
+    "modid": "carryon",
+    "name": "Carry On",
+    "version": "2.1.2.7"
+  },
+  {
+    "modid": "ba_painting",
+    "name": "Blue Archive Painting",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "fabric_api",
+    "name": "Forgified Fabric API",
+    "version": "0.92.2+1.11.8+1.20.1"
+  },
+  {
+    "modid": "l2damagetracker",
+    "name": "L2 Damage Tracker",
+    "version": "0.3.8"
+  },
+  {
+    "modid": "fabric_content_registries_v0",
+    "name": "Fabric Content Registries (v0)",
+    "version": "4.0.11+a670df1e77"
+  },
+  {
+    "modid": "twilightforest",
+    "name": "The Twilight Forest",
+    "version": "4.3.2508"
+  },
+  {
+    "modid": "no_nv_flash",
+    "name": "No Night Vision Flashing",
+    "version": "1.6.0"
+  },
+  {
+    "modid": "sodiumdynamiclights",
+    "name": "Sodium Dynamic Lights",
+    "version": "1.0.9"
+  },
+  {
+    "modid": "celestial_artifacts",
+    "name": "Celestial Artifacts",
+    "version": "1.4.8"
+  },
+  {
+    "modid": "mcwbridges",
+    "name": "Macaw\u0027s Bridges",
+    "version": "3.0.0"
+  },
+  {
+    "modid": "farmersdelight",
+    "name": "Farmer\u0027s Delight",
+    "version": "1.20.1-1.2.4"
+  },
+  {
+    "modid": "ends_delight",
+    "name": "End\u0027s Delight",
+    "version": "2.5"
+  },
+  {
+    "modid": "fabric_api_lookup_api_v1",
+    "name": "Fabric API Lookup API (v1)",
+    "version": "1.6.36+67f9824077"
+  },
+  {
+    "modid": "projectvibrantjourneys",
+    "name": "Project: Vibrant Journeys",
+    "version": "1.20.1-6.0.4"
+  },
+  {
+    "modid": "autofish",
+    "name": "XPlus Autofish Forge",
+    "version": "1.3.1-forge"
+  },
+  {
+    "modid": "trapperpelts",
+    "name": "Trapper Pelts",
+    "version": "1.0.1.2"
+  },
+  {
+    "modid": "touhou_little_maid",
+    "name": "Touhou Little Maid",
+    "version": "1.1.13"
+  },
+  {
+    "modid": "patchouli",
+    "name": "Patchouli",
+    "version": "1.20.1-84-FORGE"
+  },
+  {
+    "modid": "collective",
+    "name": "Collective",
+    "version": "7.87"
+  },
+  {
+    "modid": "xercapaint",
+    "name": "Joy of Painting",
+    "version": "1.20.1-1.0.1"
+  },
+  {
+    "modid": "ftbultimine",
+    "name": "FTB Ultimine",
+    "version": "2001.1.5"
+  },
+  {
+    "modid": "connectormod",
+    "name": "Connector",
+    "version": "1.0.0-beta.46+1.20.1"
+  },
+  {
+    "modid": "resourcefullib",
+    "name": "Resourceful Lib",
+    "version": "2.1.29"
+  },
+  {
+    "modid": "twilightdelight",
+    "name": "Twilight\u0027s Flavor \u0026 Delight",
+    "version": "2.0.8"
+  },
+  {
+    "modid": "moreweapon",
+    "name": "MoreWeapon",
+    "version": "3.0.2"
+  },
+  {
+    "modid": "architectury",
+    "name": "Architectury",
+    "version": "9.2.14"
+  },
+  {
+    "modid": "netherexp",
+    "name": "Jaden\u0027s Nether Expansion",
+    "version": "2.0.2"
+  },
+  {
+    "modid": "spmreborn",
+    "name": "Sweet Potato Reborn",
+    "version": "1.20.1-1.0.1"
+  },
+  {
+    "modid": "memorycleanermissnotoredict",
+    "name": "Memory Cleaner Miss-not Ore Dict",
+    "version": "1.6.0+1.20.1"
+  },
+  {
+    "modid": "ftblibrary",
+    "name": "FTB Library",
+    "version": "2001.2.6"
+  },
+  {
+    "modid": "fabric_loot_api_v2",
+    "name": "Fabric Loot API (v2)",
+    "version": "1.2.1+eb28f93e77"
+  },
+  {
+    "modid": "cupboard",
+    "name": "Cupboard utilities",
+    "version": "1.20.1-2.7"
+  },
+  {
+    "modid": "umbral_skies",
+    "name": "Umbral Skies",
+    "version": "0.0NONE"
+  },
+  {
+    "modid": "lanserverproperties",
+    "name": "Lan Server Properties",
+    "version": "1.11.1"
+  },
+  {
+    "modid": "productivebees",
+    "name": "Productive Bees",
+    "version": "1.20.1-12.6.0"
+  },
+  {
+    "modid": "clearwater",
+    "name": "Clear Water",
+    "version": "2.1"
+  },
+  {
+    "modid": "chunkloaders",
+    "name": "Chunk Loaders",
+    "version": "1.2.8a"
+  },
+  {
+    "modid": "biomancy",
+    "name": "Biomancy 2",
+    "version": "2.8.19.0"
+  },
+  {
+    "modid": "jei",
+    "name": "Just Enough Items",
+    "version": "15.20.0.105"
+  },
+  {
+    "modid": "invtweaks",
+    "name": "Inventory Tweaks Refoxed",
+    "version": "1.1.0"
+  },
+  {
+    "modid": "geckolib",
+    "name": "GeckoLib 4",
+    "version": "4.4.9"
+  },
+  {
+    "modid": "fabric_networking_api_v1",
+    "name": "Fabric Networking API (v1)",
+    "version": "1.3.11+503a202477"
+  },
+  {
+    "modid": "framework",
+    "name": "Framework",
+    "version": "0.7.11"
+  },
+  {
+    "modid": "puffish_attributes",
+    "name": "Pufferfish\u0027s Attributes",
+    "version": "0.6.6"
+  },
+  {
+    "modid": "yeetusexperimentus",
+    "name": "Yeetus Experimentus",
+    "version": "2.3.0-build.4+mc1.20.1"
+  },
+  {
+    "modid": "fabric_lifecycle_events_v1",
+    "name": "Fabric Lifecycle Events (v1)",
+    "version": "2.2.22+afab492177"
+  },
+  {
+    "modid": "tradingpost",
+    "name": "Trading Post",
+    "version": "8.0.2"
+  },
+  {
+    "modid": "fabric_key_binding_api_v1",
+    "name": "Fabric Key Binding API (v1)",
+    "version": "1.0.37+561530ec77"
+  },
+  {
+    "modid": "fabric_transfer_api_v1",
+    "name": "Fabric Transfer API (v1)",
+    "version": "3.3.5+631c9cd677"
+  },
+  {
+    "modid": "landmines",
+    "name": "Landmines",
+    "version": "1.0.7"
+  },
+  {
+    "modid": "wooden_elytra",
+    "name": "Wooden Elytra",
+    "version": "2.0.1"
+  },
+  {
+    "modid": "amendments",
+    "name": "Amendments",
+    "version": "1.20-1.2.12"
+  },
+  {
+    "modid": "additionallanterns",
+    "name": "Additional Lanterns",
+    "version": "1.1.1a"
+  },
+  {
+    "modid": "productivelib",
+    "name": "Productive Lib",
+    "version": "1.20.1-0.0.4"
+  },
+  {
+    "modid": "commonnetworking",
+    "name": "Common Networking",
+    "version": "1.0.5-1.20.1"
+  },
+  {
+    "modid": "fabric_resource_loader_v0",
+    "name": "Fabric Resource Loader (v0)",
+    "version": "0.11.10+bcd08ed377"
+  },
+  {
+    "modid": "portfolio",
+    "name": "Portfolio",
+    "version": "1.20.1-1.4.0-forge"
+  },
+  {
+    "modid": "celestial_weapon",
+    "name": "Celestial Weapon",
+    "version": "1.1.3"
+  },
+  {
+    "modid": "create",
+    "name": "Create",
+    "version": "0.5.1.j"
+  },
+  {
+    "modid": "create_structures",
+    "name": "Create: Structures",
+    "version": "0.1.1"
+  },
+  {
+    "modid": "mcwpaintings",
+    "name": "Macaw\u0027s Paintings",
+    "version": "1.0.5"
+  },
+  {
+    "modid": "yungscavebiomes",
+    "name": "YUNG\u0027s Cave Biomes",
+    "version": "1.20.1-Forge-2.0.1"
+  },
+  {
+    "modid": "fabric_mining_level_api_v1",
+    "name": "Fabric Mining Level API (v1)",
+    "version": "2.1.50+561530ec77"
+  },
+  {
+    "modid": "leawind_third_person",
+    "name": "Leawind\u0027s Third Person",
+    "version": "2.2.0"
+  },
+  {
+    "modid": "com_moulberry_axiomclientapi_axiomclientapi_",
+    "name": "axiomclientapi",
+    "version": "1.0.0"
+  },
+  {
+    "modid": "crackerslib",
+    "name": "CrackersLib",
+    "version": "1.20.1-0.3.2.1"
+  },
+  {
+    "modid": "icterine",
+    "name": "Icterine",
+    "version": "1.3.0"
+  },
+  {
+    "modid": "hungrychests",
+    "name": "Hungry Chests",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "netherdepthsupgrade",
+    "name": "Nether Depths Upgrade",
+    "version": "3.1.5-1.20"
+  },
+  {
+    "modid": "terralith",
+    "name": "Terralith",
+    "version": "2.5.4"
+  },
+  {
+    "modid": "blueprint",
+    "name": "Blueprint",
+    "version": "7.1.0"
+  },
+  {
+    "modid": "upgrade_aquatic",
+    "name": "Upgrade Aquatic",
+    "version": "6.0.1"
+  },
+  {
+    "modid": "just_dandy",
+    "name": "Just Dandy",
+    "version": "0.0NONE"
+  },
+  {
+    "modid": "slashblade_addon",
+    "name": "SlashBlade Japanese Addon Pack: Resharpened",
+    "version": "1.1.8"
+  },
+  {
+    "modid": "fabric_transitive_access_wideners_v1",
+    "name": "Fabric Transitive Access Wideners (v1)",
+    "version": "4.3.1+1880499877"
+  },
+  {
+    "modid": "friendsandfoes",
+    "name": "Friends \u0026 Foes",
+    "version": "3.0.6"
+  },
+  {
+    "modid": "moonlight",
+    "name": "Moonlight Library",
+    "version": "1.20-2.13.41"
+  },
+  {
+    "modid": "endermanoverhaul",
+    "name": "Enderman Overhaul",
+    "version": "1.0.4"
+  },
+  {
+    "modid": "regions_unexplored",
+    "name": "Regions Unexplored",
+    "version": "0.5.6"
+  },
+  {
+    "modid": "silentlib",
+    "name": "Silent Lib",
+    "version": "8.0.0"
+  },
+  {
+    "modid": "fabric_blockrenderlayer_v1",
+    "name": "Fabric BlockRenderLayer Registration (v1)",
+    "version": "1.1.41+1d0da21e77"
+  },
+  {
+    "modid": "visual_keybinder",
+    "name": "Raw\u0027s Visual Keybinder",
+    "version": "1.20.1 - 0.1.6"
+  },
+  {
+    "modid": "jade",
+    "name": "Jade",
+    "version": "11.12.2+forge"
+  },
+  {
+    "modid": "l2harvester",
+    "name": "L2Harvester",
+    "version": "0.0.4"
+  },
+  {
+    "modid": "another_furniture",
+    "name": "Another Furniture",
+    "version": "1.20.1-3.0.1"
+  },
+  {
+    "modid": "nethersdelight",
+    "name": "Nether\u0027s Delight",
+    "version": "1.20.1-4.0"
+  },
+  {
+    "modid": "skilltree",
+    "name": "Passive Skill Tree",
+    "version": "0.6.14a"
+  },
+  {
+    "modid": "whats_that_slot",
+    "name": "What\u0027s That Slot",
+    "version": "1.3.4"
+  },
+  {
+    "modid": "dimpaintings",
+    "name": "Dimensional Paintings",
+    "version": "2.1.0"
+  },
+  {
+    "modid": "suonotfounds_autolib",
+    "name": "SuoNotFound\u0027s AutoLib",
+    "version": "48"
+  },
+  {
+    "modid": "mes",
+    "name": "Moog\u0027s End Structures",
+    "version": "1.3.4-1.20-forge"
+  },
+  {
+    "modid": "worldofwonder",
+    "name": "World of Wonder",
+    "version": "1.1.10"
+  },
+  {
+    "modid": "storagedrawers",
+    "name": "Storage Drawers",
+    "version": "12.9.13"
+  },
+  {
+    "modid": "nullscape",
+    "name": "Nullscape",
+    "version": "1.2.2"
+  },
+  {
+    "modid": "com_moulberry_mixinconstraints",
+    "name": "mixinconstraints",
+    "version": "1.0.1"
+  },
+  {
+    "modid": "betterarcheology",
+    "name": "Better Archeology",
+    "version": "1.2.1-1.20.1"
+  },
+  {
+    "modid": "fabric_biome_api_v1",
+    "name": "Fabric Biome API (v1)",
+    "version": "13.0.13+dc36698e77"
+  },
+  {
+    "modid": "coroutil",
+    "name": "CoroUtil",
+    "version": "1.20.1-1.3.7"
+  },
+  {
+    "modid": "creeperoverhaul",
+    "name": "Creeper Overhaul",
+    "version": "3.0.2"
+  },
+  {
+    "modid": "ferritecore",
+    "name": "Ferrite Core",
+    "version": "6.0.1"
+  },
+  {
+    "modid": "yet_another_config_lib_v3",
+    "name": "YetAnotherConfigLib",
+    "version": "3.6.1+1.20.1-forge"
+  },
+  {
+    "modid": "fastfooddelight",
+    "name": "FastFood Delight Unofficial",
+    "version": "1.20.1-1.0.4"
+  },
+  {
+    "modid": "sweeper_maid",
+    "name": "Sweeper Maid",
+    "version": "1.1.1"
+  },
+  {
+    "modid": "l2itemselector",
+    "name": "L2 Item Selector",
+    "version": "0.1.7"
+  },
+  {
+    "modid": "fabric_data_generation_api_v1",
+    "name": "Fabric Data Generation API (v1)",
+    "version": "12.3.4+369cb3a477"
+  },
+  {
+    "modid": "fabric_events_interaction_v0",
+    "name": "Fabric Events Interaction (v0)",
+    "version": "0.6.2+0d0bd5a777"
+  },
+  {
+    "modid": "axiom",
+    "name": "Axiom",
+    "version": "4.1.1"
+  }
+]
